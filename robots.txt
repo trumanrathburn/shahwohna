@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://bakiathae.cstopery.com/sitemap.xml
